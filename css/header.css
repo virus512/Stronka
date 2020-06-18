@@ -1,0 +1,14 @@
+
+
+.header {
+    display: flex;
+    background-image: url( "../img/header.png" );
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    height: 500px;
+    width: 100%;
+    margin: 0 auto;
+
+
+}
+

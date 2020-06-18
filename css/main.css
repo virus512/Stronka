@@ -1,0 +1,68 @@
+.main {
+    display: block;
+    padding: 20px;
+   /* background-image: linear-gradient(#FE2020, #FFA500, #FFFF00, #008000, #4169e1,  #9400D3); */
+    color: black;
+    background-color: rgb(242, 249, 255);
+}
+
+.o-nas {
+    display: block;
+
+}
+
+
+.menu {
+    display: block;
+
+
+}
+
+.float-right {
+    float: right;
+    padding: 20px;
+    width: 600px;
+}
+
+.akapit {
+    margin-bottom: 60px;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    background-image: linear-gradient(#FE2020, #FFA500, #FFFF00, #008000, #4169e1,  #9400D3);
+
+
+}
+
+h2 {
+    text-align: center;
+    display: block;
+    color: rgba(63, 58, 58, 0.789);
+    background-color: rgba(0, 0, 0, 0.11);
+}
+
+.kontakt {
+  
+}
+
+.jak-dojechac {
+    display: block;
+
+}
+
+.map__header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.map {
+    display: block;
+    width: 100%;
+    height: 400px;
+
+}
